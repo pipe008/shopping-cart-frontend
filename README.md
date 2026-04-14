@@ -23,4 +23,4 @@ Sigue estos pasos para levantar el entorno de desarrollo localmente:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/pipe008/shopping-cart-front.git](https://github.com/pipe008/shopping-cart-front.git)
+   git clone [https://github.com/pipe008/shopping-cart-frontend.git](https://github.com/pipe008/shopping-cart-frontend.git)
